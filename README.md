@@ -1543,9 +1543,9 @@ style='mso-bidi-font-style:normal'><o:p></o:p></i></p>
      height="750" />
      <br></br>
      <h3>Bikes ride by Customers</h3>
-     <img src="https://raw.githubusercontent.com/Wadah-hamza/Google-Project-Data-Analytics-Capstone-/main/Picture3.png" 
+     <img src="https://raw.githubusercontent.com/Wadah-hamza/Google-Project-Data-Analytics-Capstone-/main/picture5.png" 
      alt="Image description" 
-     width="500" 
+     width="800" 
      height="350" />
 
 
