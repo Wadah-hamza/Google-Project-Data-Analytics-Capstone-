@@ -1,13 +1,12 @@
 # Google_Data_Analytics_Project
-# wadah 2024-09-27
-# Google Data Analytics Capstone Project Introduction
+### wadah 2024-09-27
+## Google Data Analytics Capstone Project Introduction
 
-  In this case study we will explore: -
+  ### In this case study we will explore: -
 
-* The differences in how casual and regular members use the bikes.
+ * The differences in how casual and regular members use the bikes.
 
-
-We will compare them based on the number of rides, Bike type, and duration during the day of the week. Kindly note this fiction company. If you want the Data please press the links.
+* We will compare them based on the number of rides, Bike type, and duration during the day of the week. Kindly note this fiction company. If you want the Data please press the links.
 ## Who is the Cyclistic Company
 In 2016, Cyclistic launched a successful bike-share offering. Since then, the program has grown to a fleet of 5,824 bicycles that are geotracked and locked into a network of 692 stations across Chicago. The bikes can be unlocked from one station and returned to any other station in the system anytime. Until now, Cyclistic’s marketing strategy relied on building general awareness and appealing to broad consumer segments. One approach that helped make these things possible was the flexibility of its pricing plans: single-ride passes, full-day passes, and annual memberships. Customers who purchase single- ride or full-day passes are referred to as casual riders. Customers who purchase annual memberships are Cyclistic members.
 
