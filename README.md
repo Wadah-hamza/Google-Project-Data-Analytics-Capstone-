@@ -27,7 +27,7 @@ We will use the company customer data for the trips, our analysis will be based 
 ## Organize the Data
 The dataset comprises 12 files, with each month stored in a separate file. Each file consists of 15 columns and over 600,000 rows. We have carefully reviewed all the data and confirmed that it is complete, containing all the necessary information to address the issue.
 Process
-We will work with Excel for cleaning and R Language its easy, fast, and to do all our work in one place.
+We will work with Excel for cleaning and R Language to combine the data and make calculation and some Viz and we use Tableau to Viz.
 
 ## Cleaning
 We used Excel to format the data. We inserted a column called "day of the week" to indicate the day of the week based on the start date. We also cleaned the data by creating a column to calculate the ride length (by subtracting the end time from the start time) and deleted rows that have a negative value, as those indicate that the bikes were out of circulation for quality control reasons.
